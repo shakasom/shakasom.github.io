@@ -1,4 +1,4 @@
-# Shakur & Geographic Data Science
+# Shakur Geographic Data Science
 
 Welcome to my blog. We learn, discuss and explore Geographic data science here. 
 
